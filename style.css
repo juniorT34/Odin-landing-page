@@ -7,3 +7,30 @@ html{
     padding: 0;
     outline: none;
 }
+img{
+    width: 100%;
+    height: auto;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+button{
+    padding: 8px 15px;
+}
+body{
+    background-color: #1F2937;
+    
+}
+#container{
+    width: 1100px;
+    margin: 0 auto;
+    border: 1px green solid;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
